@@ -61,4 +61,4 @@ String: "10009998"
 - Performance will be measured by execution time.
 
 **Due Date**</br>
-Please have the solution emailed to me or a PR submitted to the GitHub VC-CodeLabs/word_ladder repository by Sunday, July 7th, by midnight.
+Please have the solution emailed to me or a PR submitted to the GitHub repository by Sunday, July 7th, by midnight.
