@@ -21,6 +21,7 @@ The default implementation uses `reverseNumToListNode();`
 
 # Algorithm
 
+```
 For each number in ListNode 1:
   If ListNode 2 is not null:
      sum = ListNode 1 + ListNode 2
@@ -39,3 +40,4 @@ After finishing ListNode 1, and if ListNode 2 is still not null:
         Determine if there's carry over (sum >= 10)
 
 Finally, if there's any remaining carry over, add that to the end of the list.
+```
